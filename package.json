@@ -1,0 +1,24 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "Boilerplate CRUD auth for Express JS and Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@hapi/joi": "17.1.*",
+    "bcryptjs": "2.4.*",
+    "express": "4.17.*",
+    "express-sanitizer": "1.0.*",
+    "jsonwebtoken": "8.5.*",
+    "mongoose": "5.9.*"
+  }
+}
