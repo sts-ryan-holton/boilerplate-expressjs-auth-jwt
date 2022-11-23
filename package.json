@@ -21,7 +21,7 @@
     "express-sanitizer": "1.0.*",
     "jsonwebtoken": "8.5.*",
     "mongoose": "5.9.*",
-    "socket.io": "2.3.*",
+    "socket.io": "2.5.*",
     "uuid": "8.2.*"
   }
 }
