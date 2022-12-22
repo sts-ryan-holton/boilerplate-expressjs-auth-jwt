@@ -19,7 +19,7 @@
     "cors": "2.8.*",
     "express": "4.17.*",
     "express-sanitizer": "1.0.*",
-    "jsonwebtoken": "8.5.*",
+    "jsonwebtoken": "9.0.*",
     "mongoose": "5.9.*",
     "socket.io": "2.3.*",
     "uuid": "8.2.*"
